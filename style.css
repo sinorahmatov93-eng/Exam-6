@@ -1,0 +1,323 @@
+*{
+    margin: 0;
+}
+
+.header{
+    display: flex;
+}
+
+.box{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.box1{
+    padding: 50px;
+}
+
+.box2{
+    margin-left: 1500px;
+}
+
+.div{
+    display: flex; 
+    gap: 20px;
+}
+
+.container{
+    display: flex;
+}
+
+.box4{
+    font-size: 35px;
+    margin-left: 50px;
+}
+
+.container1{
+    background-color: #28303D;
+    width: 776px;
+    height: 278px;
+    top: 444px;
+    left: 150px;
+    border-radius: 10px;
+    margin-left: 30px;
+    display: flex;
+    margin: 30px;
+    display: flex;
+}
+
+.box6{
+    padding: 40px;
+    color: white;
+    font-size: 25px;
+}
+
+.box7{
+    color: white;
+    margin-left: 40px;
+}
+
+.box8{
+    color: white;
+    background-color: #28303D;
+    width: 164px;
+    height: 52px;
+    top: 186px;
+    left: 40px;
+    border-radius: 10px;
+    padding: 8px;
+    gap: 10px;
+    margin-left: 40px;
+    display: flex;
+}
+
+.box9{
+    background-color: #FFFFFF;
+    width: 161px;
+    height: 52px;
+    top: 186px;
+    left: 214px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.box10{
+    display: flex;
+}
+
+.box12{
+    margin: 1px;
+    display: flex;
+    align-items: center;
+    margin-left: 390px;
+}
+
+.box13{
+    display: flex;
+    align-items: center;
+}
+
+.box14{
+    background-color: #D7B18D;
+    width: 204px;
+    height: 52px;
+    top: 772px;
+    left: 150px;
+    border-radius: 10px;
+    padding: 14px;
+    gap: 10px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.box15{
+    margin-left: 20px;
+}
+
+.header1{
+    display: flex;
+    background-color: #212731;
+    width: 1200px;
+    height: 235px;
+    top: 1044px;
+    left: 70px;
+    border-radius: 10px;
+    margin: 190px;
+}
+
+.box17{
+    color: white;
+    margin-left: 50px;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.box18{
+    display: flex;
+    gap: 40px;
+    color: white;
+}
+
+.box19{
+    color: white;
+    margin-left: 80px;
+}
+
+.box20{
+    margin-left: 50px;
+}
+
+.box21{
+    font-size: 35px;
+    margin-left: 50px;
+}
+
+.container4{
+    display: flex;
+    gap: 80px;
+}
+
+
+.box23{
+    color: gray;
+    padding: 30px;
+    margin-left: 20px;
+}
+
+.box24{
+    margin-left: 40px;
+}
+
+.box25{
+    width: 379px;
+    height: 0px;
+    top: 1653px;
+    left: 100px;
+}
+
+.box26{
+    color: gray;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+.box27{
+    display: flex;
+    gap: 50px;
+}
+
+.box28{
+    background-color: #D7B18D;
+    width: 187px;
+    height: 52px;
+    top: 1718px;
+    left: 95px;
+    border-radius: 10px;
+    gap: 10px;
+    margin-left: 40px;
+    align-items: center;
+    text-align: center;
+}
+
+.box29{
+    width: 187px;
+    height: 52px;
+    top: 1718px;
+    left: 292px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.box30{
+    display: flex;
+    gap: 50px;
+}
+
+.box31{
+    margin-left: 40px;
+    padding: 20px;
+}
+
+.box32{
+    color: gray;
+    padding: 20px;
+}
+
+.box33{
+    color: #08A652;
+    margin-left: 40px;
+}
+
+.box34{
+    font-size: 25px;
+    margin-left: 40px;
+    padding: 20px;
+}
+
+.box35{
+    font-size: 35px;
+    margin-left: 40px;
+    padding: 50px;
+}
+
+.container5{
+    display: flex;
+    gap: 50px;
+}
+
+.box36{
+    display: flex;
+    gap: 30px;
+}
+
+.box37{
+    margin-left: 70px;
+}
+
+.box38{
+    font-size: 25px;
+}
+
+.box39{
+    color: gray;
+    margin-left: 50px;
+}
+
+.box40{
+    padding: 20px;
+    margin-left: 80px;
+    width: 379px;
+    height: 52px;
+    top: 2318px;
+    left: 100px;
+    border-radius: 10px;
+    border: 1px solid #D7B18D;
+}
+
+.box41{
+    padding: 20px;
+    margin-left: 80px;
+    width: 379px;
+    height: 52px;
+    top: 2318px;
+    left: 100px;
+    border-radius: 10px;
+    border: 1px solid #D7B18D;
+    display: flex;
+}
+
+.box42{
+    display: flex;
+    gap: 40px;
+}
+
+.box43{
+    font-size: 35px;
+    padding: 90px;
+}
+
+.box44{
+    padding: 90px;
+}
+
+.container6{
+    color: white;
+    background-color: #212731;
+    width: 1,780px;
+    height: 297px;
+    top: 2916px;
+    left: 70px;
+    border-radius: 10px;
+    margin: 300px;
+}
+
+.box46{
+    font-size: 35px;
+    padding: 20px;
+}
+
+.box47{
+    margin-left: 20px;
+}

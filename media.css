@@ -1,0 +1,315 @@
+@media (max-width: 768px) {
+
+    .header {
+        width: 100%;
+    }
+
+    .box {
+        width: 90%;
+        margin: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .box1 {
+        max-width: 150px;
+        height: auto;
+    }
+
+    .div {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .div img {
+        width: 25px;
+        height: auto;
+    }
+
+
+    .container {
+        width: 90%;
+        margin: 20px;
+    }
+
+    .box3 {
+        width: 100%;
+    }
+
+    .box4 {
+        font-size: 28px;
+    }
+
+
+    .container1 {
+        width: 90%;
+        margin: 0 ;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .div1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .box6 {
+        font-size: 25px;
+    }
+
+    .box7 {
+        font-size: 18px;
+    }
+
+    .box10 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .box8 {
+        font-size: 20px;
+    }
+
+    .box9 {
+        width: 90%;
+        padding: 15px;
+        text-align: center;
+    }
+
+    .box11 img,
+    .box12 img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .box11,
+    .box12 {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    
+
+    .box13 {
+        width: 90%;
+        margin: 30px ;
+        text-align: center;
+    }
+
+    .box14 {
+        font-size: 22px;
+    }
+
+    .box15 img {
+        max-width: 100%;
+        height: auto;
+    }
+
+
+    .header1 {
+        width: 90%;
+        margin: 30px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .box17 {
+        font-size: 28px;
+    }
+
+    .box18 {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .box20 img {
+        max-width: 100%;
+        height: auto;
+    }
+
+
+    .box21,
+    .box35 {
+        width: 90%;
+        margin: 30px  15px;
+        text-align: center;
+        font-size: 25px;
+    }
+
+
+    .container4 {
+        width: 90%;
+        margin: 0 ;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .box22 {
+        width: 100%;
+                  padding: 20px;
+    }
+
+    .box23 {
+        font-size: 14px;
+    }
+
+    .box34 {
+        font-size: 22px;
+    }
+
+    .box24 {
+        font-size: 18px;
+    }
+
+    .box27 {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .box28,
+    .box29 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .box30 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+    }
+
+
+    .container5 {
+        width: 90%;
+        margin: 0 ;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .box36 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .box37 {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .box38 {
+        font-size: 20px;
+    }
+
+    .box39 {
+        font-size: 18px;
+    }
+
+    .box40 {
+        width: 90%;
+        margin: 20px;
+        text-align: center;
+    }
+
+    
+
+    .box41 {
+        width: 90%;
+        margin: 30px ;
+    }
+
+    .box42 {
+        text-align: center;
+    }
+
+    .box43 {
+        font-size: 22px;
+    }
+
+    .box44 {
+        font-size: 18px;
+    }
+
+
+    .container6 {
+        width: 90%;
+        margin: 20px;
+    }
+
+    .box45 {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .box46 {
+        font-size: 22px;
+    }
+
+    .box47 {
+        font-size: 18px;
+    }
+
+        .box1 {
+        max-width: 120px;
+    }
+
+    .box4 {
+        font-size: 24px;
+    }
+
+    .box6 {
+        font-size: 22px;
+    }
+
+    .box7 {
+        font-size: 16px;
+    }
+
+    .box17 {
+        font-size: 24px;
+    }
+
+    .box21,
+    .box35 {
+        font-size: 22px;
+    }
+
+    .box34 {
+        font-size: 20px;
+    }
+
+    .box24 {
+        font-size: 16px;
+    }
+
+    .box30 {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .box43 {
+        font-size: 19px;
+    }
+
+    .box46 {
+        font-size: 20px;
+    }
+
+    .box47 {
+        font-size: 16px;
+    }
+}
+
